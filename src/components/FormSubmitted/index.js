@@ -1,0 +1,5 @@
+export {default as FormSubmittedButtons} from './FormSubmittedButtons'
+export {default as FormSubmittedSubtext} from './FormSubmittedSubtext'
+export {default as FormSubmittedText} from './FormSubmittedText'
+export {default as FormSubmittedTitle} from './FormSubmittedTitle'
+export {default as FormSubmittedWrapper} from './FormSubmittedWrapper'
